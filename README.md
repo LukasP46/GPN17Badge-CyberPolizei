@@ -1,5 +1,5 @@
 # GPN17Badge-CyberPolize
-Hier mein kleines Arduino Progrämmchen zu den GPN17 Badge.
+Hier mein kleines Arduino Progrämmchen zum GPN17 Badge.
 
 Steuerung:
   Oben: heller
